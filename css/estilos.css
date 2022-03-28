@@ -1,0 +1,26 @@
+*{
+        font-family:'sans-serif',sans-serif;       
+} 
+body{
+    background-color: #404040;    
+} 
+p{
+    color: white;
+}
+a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover{
+    color:grey;
+}
+#caja{
+    width: 300px;
+    border: 15px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+.color{ 
+    color: white;
+} 
